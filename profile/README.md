@@ -1,6 +1,6 @@
 # Welcome
 
-Here we are developing the open-source and free **Sajya** project, which aims at a simple implementation of [JSON-RPC 2.0](https://sajya.github.io/docs/specification/) server for Laravel framework.
+Need to make an API? You've come to the right place! Here we are developing the open-source and free **Sajya** project, which aims at a simple implementation of [JSON-RPC 2.0](https://sajya.github.io/docs/specification/) server for Laravel framework.
 
 ----
 
