@@ -10,7 +10,7 @@ Need to make an API? You've come to the right place! Here we are developing the 
 
 ## Quick Start Guide
 
-If you're completely new to this, don't worry, we all were once.
+If you're completely new to this, don't worry, we all were once.   
 To quickly learn the most important features, check out the step-by-step tutorials you'll find on the [on the website](https://sajya.github.io/docs).
 
 
